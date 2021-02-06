@@ -12,4 +12,4 @@
   - In Dockerfile replace bloggybootsv02 to your project name, this is the property "name" in package.json 
   - In default.conf replace "mydomain" to your domain name
 
-See for more info: https://medium.com/
+See for more info: https://bloggyboots.medium.com/
