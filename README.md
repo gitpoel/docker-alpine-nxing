@@ -12,4 +12,4 @@
   - In Dockerfile replace bloggybootsv02 to your project name, this is the property "name" in package.json 
   - In default.conf replace "mydomain" to your domain name
 
-See for more info: https://bloggyboots.medium.com/
+For more info: [medium.com](https://medium.com/javascript-in-plain-english/your-guide-for-deploying-an-angular-app-on-google-cloud-aint-complete-f6d5998332fb)
